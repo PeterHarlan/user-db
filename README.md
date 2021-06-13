@@ -11,3 +11,7 @@ This is an example of using a public api and making queries on the fetched api. 
 3. Run `Yarn run install` to download all the dependencies
 4. Run `Yarn run start` to start the development server
 5. Run `Yarn run build` to build the React app
+
+## Check it OUT!!!
+
+Here is the app live. https://peterharlan.github.io/user-db/

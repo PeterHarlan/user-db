@@ -15,7 +15,7 @@ export default function App() {
   useEffect(() => {
     // I will prefetch all the data to filter through it since
     // I dont have an api end point to filter search
-    const apiRoute = `http://randomuser.me/api/?results=500&seed=foobar`;
+    const apiRoute = `https://randomuser.me/api/?results=500&seed=foobar`;
     setIsLoading(true);
     setError("");
     axios
